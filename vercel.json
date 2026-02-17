@@ -1,8 +1,8 @@
 {
   "rewrites": [
-    { "source": "/geoquiz", "destination": "https://geoquiz-rosy.vercel.app/geoquiz" },
+    { "source": "/geoquiz", "destination": "https://geoquiz-rosy.vercel.app/geoquiz/" },
     { "source": "/geoquiz/:path*", "destination": "https://geoquiz-rosy.vercel.app/geoquiz/:path*" },
-    { "source": "/seawar", "destination": "https://seawar123.vercel.app" },
+    { "source": "/seawar", "destination": "https://seawar123.vercel.app/" },
     { "source": "/seawar/:path*", "destination": "https://seawar123.vercel.app/:path*" }
   ]
 }
